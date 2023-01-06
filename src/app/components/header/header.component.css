@@ -1,0 +1,54 @@
+#carousel{
+    background-color: black;
+    height:535px;
+}
+#titulos{
+    margin-left: 10%;
+}
+#p1{
+    color: rgb(100, 255, 218);
+    margin: 0px 0px 20px 3px;
+    font-size: 16px;
+    font-family: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console, Monaco, monospace;
+    font-weight: normal;
+}
+h2{
+    color: rgb(100, 255, 218);
+    transition-delay: 200ms;
+    font-size: 50px;
+    font-family: Arial black;
+    font-weight: bold;
+    line-height: 1.1;
+    margin: 0px 0px 20px 3px;
+}
+#frase{
+    color: rgb(255, 251, 4);
+}
+#p2{
+
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 20px 3px;
+    font-size: 16px;
+    font-family: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console, Monaco, monospace;
+    font-weight: normal;
+    width: 40%;
+    line-height: 2.5em;
+}
+#descripcion{
+    margin-top: 50px;
+}
+
+button{
+    color: rgb(100, 255, 218);
+    background-color: black;
+    border-color: rgb(100, 255, 218);
+    border-radius: 5px;
+    height: 60px;
+    width: 120px;
+    margin-left: 140px;
+}
+button:hover
+{
+background-color:rgb(100, 255, 218);
+color: black;
+}
